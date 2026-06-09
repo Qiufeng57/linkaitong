@@ -15,3 +15,6 @@ https://claude.ai/share/1b2381cf-c9f3-40b4-b864-f15a3d4c8c91
 论文撰写
 https://claude.ai/share/60195567-9c91-4317-8fd0-bf6c13dc0d9c
 https://chatgpt.com/share/6a24e962-b28c-83e8-82d4-1c84fa33f6d3
+
+#挑战三
+https://chatgpt.com/share/6a28145b-45e4-83e8-ab1e-9ef48d414f1d
